@@ -1,0 +1,34 @@
+.otst {
+	padding-top: 20px;
+}
+
+.mt {
+	margin-top: 100px;
+}
+
+body {
+	background-image: url(bg.jpg);
+	/*background-color: #2e2f45;*/
+}
+
+.bg {
+	background-color: white;
+	padding-bottom: 50px;
+}
+
+.ddw {
+	margin-top: 500px;
+}
+
+.dds {
+	margin-bottom: 700px;
+}
+
+.bgcol {
+	background-color: rgba(243, 243, 243, 0.95);
+}
+
+/*.logo {
+	padding-right: 7px;
+	padding-bottom: 3px;
+}*/
